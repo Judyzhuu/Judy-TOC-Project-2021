@@ -1,3 +1,5 @@
+QR code:
+![Alt text](https://github.com/Judyzhuu/Judy-TOC-Project-2021/blob/master/img/958xdllz.png)
 在linebot輸入「開始查詢」選擇「查詢匯率」即可可以查看匯率，按亞洲和歐美則會分別出現3個不同國家，若需查看其他國家匯率則按其他到台銀網頁去查看。
 
 選擇「今天吃什麼」，點選按鈕則會出現兩個選項，可按類別看到美食推文網站。
